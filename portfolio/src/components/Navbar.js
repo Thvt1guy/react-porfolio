@@ -1,18 +1,15 @@
 function Navbar(){
     return (
         <>
-        <ul>
-            <li>Derrick Alcius</li>
-        </ul>
-
-         <ul className="">
-         <li>About</li>
-         <li>Skills</li>
-         <li>Projects</li>
-         <li>Contact</li>
-         </ul>
+         <div className="nav">
+         <a>Derrick Alcius</a>
+         <a>About</a>
+         <a>Skills</a>
+         <a>Projects</a>
+         <a>Contact</a>
+         </div>
          </>
-         )
+        )
 }
 
 export default Navbar;

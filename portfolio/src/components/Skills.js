@@ -2,7 +2,7 @@ function Skills(){
     return (
     <>
     <h1>Skills</h1>
-    <h2>Placeholder for icons</h2>
+    <h2>(Placeholder for Skill icons)</h2>
     </>
     );
 }
