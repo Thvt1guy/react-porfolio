@@ -1,6 +1,8 @@
+import { AiFillLinkedin } from 'react-icons/ai';
+
 function Footer(){
     return (<>
-    <h1>Footer text</h1>
+    <a href='https://www.linkedin.com/in/derrick-alcius-526b76233/'><AiFillLinkedin /></a>
     </>
     );
 }
